@@ -1,2 +1,6 @@
 x=input()
-print(int(x)+2)
+# <<<<<<< feature-1
+print(int(x)+1)
+# =======
+# print(int(x)+2)
+# >>>>>>> main
